@@ -8,6 +8,7 @@ public class Test {
         System.out.println("test git");
         System.out.println("test git");
         System.out.println("test git");
+        System.out.println("克隆并修改第一次");
     }
 
     @Override
