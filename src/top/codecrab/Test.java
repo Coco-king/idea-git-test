@@ -13,6 +13,8 @@ public class Test {
         System.out.println("test分支111");
 
         System.out.println("test分支222222");
+
+        System.out.println("第一个分支");
     }
 
     @Override
