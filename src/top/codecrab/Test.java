@@ -11,6 +11,8 @@ public class Test {
         System.out.println("克隆并修改第一次");
 
         System.out.println("test分支111");
+
+        System.out.println("test分支222222");
     }
 
     @Override
